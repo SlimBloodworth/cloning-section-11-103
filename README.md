@@ -8,7 +8,7 @@
 
 ## Overview
 
-This an exercise from the Git and Github Bootcamp course I'm taking through Udemy. The course is instructed by Colt Steele. This is a practice exercise (lesson # 103) from Section 11.
+This an exercise from the Git and Github Bootcamp course I'm taking through Udemy. The course is instructed by Colt Steele. This is a practice exercise (lesson # 103) from Section 11. This will also include lesson #104 on renaming a branch.
 
 ### Links
 
@@ -21,7 +21,7 @@ This an exercise from the Git and Github Bootcamp course I'm taking through Udem
 
 ### Continued development
 
-There are 20 sections to this course, each with a number of lessons and exercises. This a practice exercise from Section 11, Lesson 103.
+There are 20 sections to this course, each with a number of lessons and exercises. This a practice exercise from Section 11, Lesson 103. This will also include lesson #104 on renaming a branch.
 
 ### Useful resources
 

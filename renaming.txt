@@ -1,0 +1,3 @@
+Renaming a branch.
+This branch was originally named renameThisBranch.
+I will change it to renamedBranch
