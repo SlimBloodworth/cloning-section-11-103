@@ -23,4 +23,4 @@ A cloning first work flow
 8.) Check the status:
 - git status
 9.) Push your changes to Github
-- git push origin main
+-> git push origin main
