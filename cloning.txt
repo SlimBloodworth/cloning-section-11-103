@@ -1,0 +1,26 @@
+A cloning first work flow 
+-This works if you haven't begun work on your local repo
+-You can: 
+* Create a new repo on Github
+* Clone it down to yur machine
+* Do some work locally
+* Push your changes to Github
+
+1.) Create a repo on Github
+2.) In the terminal make sure you're not already in a repo:
+-> git status (if you are in a repo, back out -> cd ..)
+3.) Clone your new Github repo: 
+-> git clone https://github.com/YourGitHubName/newRepoName.git
+4.) Go into the new cloned folder
+-> cd clonedFolderName
+5.) Check the branch you're on:
+- git remote -v
+6.) Create a file:
+- touch fileName.txt
+7.) Add and Commit new file:
+- git add .
+-git commit -m "message"
+8.) Check the status:
+- git status
+9.) Push your changes to Github
+- git push origin main
